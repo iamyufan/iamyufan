@@ -1,4 +1,4 @@
-Hello World 👋 I'm Yufan. 
+# Hello World 👋 I'm Yufan. 
 
 - 👨🏻‍🎓 I’m currently pursuing in a degree of B.S. in Data Science at **Duke Kunshan University**.
 - 👨🏻‍💻 I am broadly interested in **Artificial Intelligence**, **Computer Science** and **Blockchain**.
