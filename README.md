@@ -4,9 +4,9 @@ I'm Yufan.
 
 I’m currently pursuing in a degree of B.S. in Data Science at **Duke Kunshan University**.
 
-- 👨🏻‍💻I am broadly interested in Artificial Intelligence, Computer Science and Blockchain.
-- 🐣I also enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.
-- 📪Contact me via:
+- 👨🏻‍💻 I am broadly interested in Artificial Intelligence, Computer Science and Blockchain.
+- 🐣 I also enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.
+- 📪 Contact me via:
   - Email: yz605@duke.edu
   - Website: https://yufanz.xyz/
   - LinkedIn: https://www.linkedin.com/in/helloyufan/
