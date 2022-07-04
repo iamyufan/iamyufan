@@ -9,7 +9,7 @@
 
 <img align="left"  src="https://spotify-recently-played-readme.vercel.app/api?user=393p86bewg6tgzebw0xgnh680" alt="Spotify" />
 
-<img align="right"  style="float:right;width:42px;height:42px;" src="https://github-readme-stats.vercel.app/api?username=iamyufan" alt="Yufan" />
+<img align="right"  style="float:right;width:40%;" src="https://github-readme-stats.vercel.app/api?username=iamyufan" alt="Yufan" />
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=393p86bewg6tgzebw0xgnh680) -->
 
