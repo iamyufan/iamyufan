@@ -9,6 +9,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=393p86bewg6tgzebw0xgnh680)
 
+[![Yufan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyufan)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 BruceZZZZZZZ/BruceZZZZZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
