@@ -6,10 +6,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanz.xyz/)
 [![Gmail Badge](https://img.shields.io/badge/-brucezzzzzzzyf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brucezzzzzzzyf@gmail.com)](mailto:brucezzzzzzzyf@gmail.com)
 
-<div style="display: flex;" markdown>
+<!-- <div style="display: flex;" markdown>
 <img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Logo" href="https://yufanz.xyz/"/>
 <div style="width: 10%"></div>
-<div markdown style="width: 80%;">
+<div markdown style="width: 80%;"> -->
 
 <p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of B.S. in Data Science at <b>Duke Kunshan University</b>.</p>
 <p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Artificial Intelligence</b>, <b>Computer Science</b> and <b>Blockchain</b>.</p>
