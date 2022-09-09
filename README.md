@@ -19,9 +19,9 @@
 
 <!-- <img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Spotify" />
 - 👨🏻‍🎓 I’m currently pursuing in a degree of B.S. in Data Science at **Duke Kunshan University**.
-- 👨🏻‍💻 I am broadly interested in **Artificial Intelligence**, **Computer Science** and **Blockchain**.
+- 👨🏻‍💻 I am broadly interested in **Artificial Intelligence**, **Software Engineering** and **Blockchain**.
 - 🐣 I also enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.
-- 📪 Contact me via: yz605@duke.edu | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/) -->
+- 📪 Contact me via: [yufanbruce@outlook.com](mailto:yufanbruce@outlook.com) | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/) -->
 
 ---  
   
