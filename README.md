@@ -13,7 +13,7 @@
 
 <p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of B.S. in Data Science at <b>Duke Kunshan University</b>.</p>
 <p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Artificial Intelligence</b>, <b>Computer Science</b> and <b>Blockchain</b>.</p>
-<p style="font-size:18px">🐣 Enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.</p>
+<p style="font-size:18px">🐣 Enjoy photography, traveling, various genres of music, ultimate frisbee, and so much more.</p>
 <!-- <p style="font-size:18px">- 📪 Contact me via: yz605@duke.edu | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/)</p> -->
 
 
