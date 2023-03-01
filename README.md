@@ -3,8 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-yufanbruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yufanbruce/)](https://www.linkedin.com/in/yufanbruce/)
 [![GitHub Badge](https://img.shields.io/badge/-@iamyufan-%23181717?style=flat-square&logo=github)](https://github.com/iamyufan)
 [![Twitter Badge](https://img.shields.io/badge/-@brucezbrucez-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/brucezbrucez)
-[![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanz.xyz/)
-[![Gmail Badge](https://img.shields.io/badge/-brucezzzzzzzyf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brucezzzzzzzyf@gmail.com)](mailto:brucezzzzzzzyf@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](http://yufanbruce.com/)
+[![Gmail Badge](https://img.shields.io/badge/-brucezzzzzzzyf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@outlook.com)](mailto:yufanbruce@outlook.com)
 
 <!-- <div style="display: flex;" markdown>
 <img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Logo" href="https://yufanz.xyz/"/>
@@ -12,16 +12,16 @@
 <div markdown style="width: 80%;"> -->
 
 <p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of B.S. in Data Science at <b>Duke Kunshan University</b>.</p>
-<p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Artificial Intelligence</b>, <b>Computer Science</b> and <b>Blockchain</b>.</p>
+<p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Artificial Intelligence</b>, <b>App Development</b> and <b>Multimedia Computing</b>.</p>
 <p style="font-size:18px">🐣 Enjoy photography, traveling, various genres of music, ultimate frisbee, and so much more.</p>
-<!-- <p style="font-size:18px">- 📪 Contact me via: yz605@duke.edu | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/)</p> -->
+<!-- <p style="font-size:18px">- 📪 Contact me via: yufanbruce@outlook.com | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/)</p> -->
 
 
 <!-- <img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Spotify" />
 - 👨🏻‍🎓 I’m currently pursuing in a degree of B.S. in Data Science at **Duke Kunshan University**.
 - 👨🏻‍💻 I am broadly interested in **Artificial Intelligence**, **Software Engineering** and **Blockchain**.
 - 🐣 I also enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.
-- 📪 Contact me via: [yufanbruce@outlook.com](mailto:yufanbruce@outlook.com) | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/) -->
+- 📪 Contact me via: [yufanbruce@outlook.com](mailto:yufanbruce@outlook.com) | [yufanbruce.com](http://yufanbruce.com/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/) -->
 
 ---  
   
