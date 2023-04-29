@@ -11,17 +11,10 @@
 <div style="width: 10%"></div>
 <div markdown style="width: 80%;"> -->
 
-<p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of B.S. in Data Science at <b>Duke Kunshan University</b>.</p>
-<p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Artificial Intelligence</b>, <b>App Development</b> and <b>Multimedia Computing</b>.</p>
+<p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of M.S. in Computer Science at <b>the University of Chicago</b>.</p>
+<p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Artificial Intelligence</b>, and <b>Cloud Computing</b>.</p>
 <p style="font-size:18px">🐣 Enjoy photography, traveling, various genres of music, ultimate frisbee, and so much more.</p>
-<!-- <p style="font-size:18px">- 📪 Contact me via: yufanbruce@outlook.com | [yufanz.xyz](https://yufanz.xyz/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/)</p> -->
-
-
-<!-- <img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Spotify" />
-- 👨🏻‍🎓 I’m currently pursuing in a degree of B.S. in Data Science at **Duke Kunshan University**.
-- 👨🏻‍💻 I am broadly interested in **Artificial Intelligence**, **Software Engineering** and **Blockchain**.
-- 🐣 I also enjoy photography, traveling, various genres of music, ultimate frisbee, media & arts and so much more.
-- 📪 Contact me via: [yufanbruce@outlook.com](mailto:yufanbruce@outlook.com) | [yufanbruce.com](http://yufanbruce.com/) | [LinkedIn](https://www.linkedin.com/in/helloyufan/) -->
+<!-- <p style="font-size:18px">- 📪 Contact me via: yufanbruce@outlook.com | [yufanbruce.com](http://yufanbruce.com/) | [LinkedIn](https://www.linkedin.com/in/yufanbruce/)</p> -->
 
 ---  
   
