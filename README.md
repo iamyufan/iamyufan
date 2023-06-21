@@ -2,14 +2,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-yufanbruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yufanbruce/)](https://www.linkedin.com/in/yufanbruce/)
 [![GitHub Badge](https://img.shields.io/badge/-@iamyufan-%23181717?style=flat-square&logo=github)](https://github.com/iamyufan)
-[![Twitter Badge](https://img.shields.io/badge/-@brucezbrucez-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/brucezbrucez)
-[![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](http://yufanbruce.com/)
-[![Gmail Badge](https://img.shields.io/badge/-yufanbruce@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@outlook.com)](mailto:yufanbruce@outlook.com)
+[![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanbruce.com/)
+[![Gmail Badge](https://img.shields.io/badge/-yufanbruce@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
-<!-- <div style="display: flex;" markdown>
-<img align="left"  style="float:left;width:10%;" src="img/logo.png" alt="Logo" href="https://yufanz.xyz/"/>
-<div style="width: 10%"></div>
-<div markdown style="width: 80%;"> -->
 
 <p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of M.S. in Information Systems (Connective Media) at <b>Cornell Tech</b>.</p>
 <p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Artificial Intelligence</b>, and <b>Cloud Computing</b>.</p>
@@ -22,10 +17,3 @@
 <img align="right"  style="float:right;width:47%;" src="https://github-readme-stats.vercel.app/api?username=iamyufan" alt="Yufan" />
 <!-- <div style="hight: 10%"></div> -->
 <img align="right"  style="float:right;width:47%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyufan&layout=compact" alt="TopLang" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyufan&layout=compact)](https://github.com/iamyufan/github-readme-stats) -->
-
-<!---
-BruceZZZZZZZ/BruceZZZZZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
