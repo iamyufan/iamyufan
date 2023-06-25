@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-yufanbruce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yufanbruce/)](https://www.linkedin.com/in/yufanbruce/)
 [![GitHub Badge](https://img.shields.io/badge/-@iamyufan-%23181717?style=flat-square&logo=github)](https://github.com/iamyufan)
-[![Website Badge](https://img.shields.io/badge/Website-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanbruce.com/)
+[![Website Badge](https://img.shields.io/badge/yufanbruce.com-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanbruce.com/)
 [![Gmail Badge](https://img.shields.io/badge/-yufanbruce@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
 
