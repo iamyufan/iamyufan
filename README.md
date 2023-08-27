@@ -6,10 +6,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-yufanbruce@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
 
-<p style="font-size:18px">👨🏻‍🎓 Pursuing in a degree of M.S. in Information Systems (Connective Media) at <b>Cornell Tech</b>.</p>
-<p style="font-size:18px">👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Artificial Intelligence</b>, and <b>Cloud Computing</b>.</p>
-<p style="font-size:18px">🐣 Enjoy photography, traveling, various genres of music, ultimate frisbee, and so much more.</p>
-<!-- <p style="font-size:18px">- 📪 Contact me via: yufanbruce@outlook.com | [yufanbruce.com](http://yufanbruce.com/) | [LinkedIn](https://www.linkedin.com/in/yufanbruce/)</p> -->
+👨🏻‍🎓 Pursuing in a degree of M.S. in Information Systems (Connective Media) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
+
+👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Machine Learning</b>, and <b>Cloud Computing</b>.
+
+🐣 Enjoy photography, traveling, Hip-Hop music, and so much more.
 
 ---  
   
