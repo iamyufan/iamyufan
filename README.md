@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yufanbruce@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
 
-👨🏻‍🎓 Pursuing in a degree of M.S. in Information Systems (Connective Media) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
+👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/ at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
 
 👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Machine Learning</b>, and <b>Cloud Computing</b>.
 
