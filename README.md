@@ -8,9 +8,9 @@
 
 👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
 
-👨🏻‍💻 Broadly interested in <b>Software Enigneering</b>, <b>Machine Learning</b>, and <b>Cloud Computing</b>.
+👨🏻‍💻 Broadly interested in <b>Machine Learning</b>, <b>Software Enigneering</b>, and <b>Cloud Computing</b>.
 
-🐣 Enjoy photography, traveling, Hip-Hop music, and so much more.
+🐣 Enjoy photography, traveling, Hip-Hop/R&B music, and so much more.
 
 ---  
   
