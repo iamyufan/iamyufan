@@ -10,7 +10,7 @@
 
 👨🏻‍💻 Broadly interested in <b>Machine Learning</b>, <b>Software Enigneering</b>, and <b>Cloud Computing</b>.
 
-🐣 Enjoy photography, traveling, Hip-Hop/R&B music, and so much more.
+🐣 Enjoying photography, traveling, Hip-Hop/R&B music, and so much more.
 
 ---  
   
