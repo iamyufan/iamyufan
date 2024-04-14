@@ -8,7 +8,7 @@
 
 👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
 
-👨🏻‍💻 Broadly interested in <b>[Machine Learning](https://yufanbruce.com/tags/machine-learning/)</b>, <b>[Software Development](https://yufanbruce.com/tags/software-development/)</b>, and <b>Cloud Computing</b>.
+👨🏻‍💻 Broadly interested in <b>[Machine Learning](https://yufanbruce.com/tags/machine-learning/)</b>, <b>[Software Development](https://yufanbruce.com/tags/data-science/)</b>, and <b>Software Development</b>.
 
 🐣 Enjoying photography, traveling, Hip-Hop/R&B music, and so much more.
 
