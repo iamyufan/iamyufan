@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yufanbruce@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
 
-👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
+👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>. Bachelor degree in Data Science at Duke Kunshan University.
 
 👨🏻‍💻 Broadly interested in <b>[Machine Learning](https://yufanbruce.com/tags/machine-learning/)</b>, <b>[Data Science](https://yufanbruce.com/tags/data-science/)</b>, and <b>Software Development</b>.
 
