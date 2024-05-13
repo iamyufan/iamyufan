@@ -10,7 +10,7 @@
 
 👨🏻‍💻 Broadly interested in <b>[Machine Learning](https://yufanbruce.com/tags/machine-learning/)</b>, <b>[Data Science](https://yufanbruce.com/tags/data-science/)</b>, and <b>Software Development</b>.
 
-🐣 Enjoying photography, traveling, Hip-Hop/R&B music, and so much more.
+🐣 Enjoying photography, traveling, chill music, and so much more.
 
 ---  
   
