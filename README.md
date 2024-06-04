@@ -8,7 +8,7 @@
 
 👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
 
-👨🏻‍💻 Broadly interested in <b>[Machine Learning](https://yufanbruce.com/tags/machine-learning/)</b>, <b>[Data Science](https://yufanbruce.com/tags/data-science/)</b>, and <b>Software Development</b>.
+👨🏻‍💻 Broadly interested in <b>Machine Learning</b>, <b>Data Science/b>, and <b>Software Development</b>.
 
 🐣 Enjoying photography, traveling, chill music, and so much more.
 
