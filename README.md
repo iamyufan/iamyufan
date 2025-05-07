@@ -5,8 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/yufanbruce.com-763A7A?style=flat-square&logo=google-chrome&logoColor=white)](https://yufanbruce.com/)
 [![Gmail Badge](https://img.shields.io/badge/-yufanbruce@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yufanbruce@gmail.com)](mailto:yufanbruce@gmail.com)
 
+👨🏻‍💻 Data Scientist at Aicadium
 
-👨🏻‍🎓 Pursuing in a degree of M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
+👨🏻‍🎓 M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
 
 👨🏻‍💻 Professionally interested in <b>Machine Learning</b>, <b>Data Science</b>, and <b>Product Design</b>.
 
