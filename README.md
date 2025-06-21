@@ -7,7 +7,7 @@
 
 👨🏻‍💻 Data Scientist at Aicadium
 
-👨🏻‍🎓 M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b>.
+👨🏻‍🎓 M.S. in [Information Systems (Connective Media)](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) at <b>[Cornell Tech](https://tech.cornell.edu/)</b> | B.S. in Data Science at <b>[Duke Kunshan University](https://dukekunshan.edu.cn/)</b>
 
 👨🏻‍💻 Professionally interested in <b>Machine Learning</b>, <b>Data Science</b>, and <b>Product Design</b>.
 
